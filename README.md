@@ -3,6 +3,8 @@ Repository to host Sprints at the ETH Zurich July 2024 Collaboration Meeting
 
 Check the <a href="https://github.com/LSSTDESC/SprintDayETHZurich2024/issues">issue page</a> to see the list of sprints.
 
+Logistics of the Sprint Day can be found on <a href="https://confluence.slac.stanford.edu/display/LSSTDESC/Copy+of+July+2024+DESC+Meeting%3A+Sprint+Day">the confluence page</a>.
+
 ## How to propose a sprint
 
 Use of the links below to propose a sprint:
